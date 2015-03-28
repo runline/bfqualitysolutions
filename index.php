@@ -9,7 +9,7 @@
 	<link rel="stylesheet" href="js/jquery.mobile.structure-1.4.5.min.css" />
 	<script>
 		function items(){
-		//showMessages();
+		showMessages();
 		showApplicants();
 		};
 	</script>
